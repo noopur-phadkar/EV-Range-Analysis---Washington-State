@@ -4,11 +4,13 @@ This study analyzes the adoption and usage of electric vehicles in Washington St
 
 # Dataset
 
-Name: Electric Vehicle Population Data [Washington US]
+## Name: Electric Vehicle Population Data [Washington US]
+
 Dataset Source: Kaggle
 
 The dataset pertains to the electric vehicle population in Washington, US, and provides details regarding the electric range, battery capacity, make, model, year, and other attributes of the EVs. The information was gathered by the Washington State Department of Transportation and the Department of Ecology as part of their initiatives to promote the adoption of electric vehicles and minimize greenhouse gas emissions resulting from the transportation sector.
 
+<!---
 Dataset Description:
 VIN (1-10) - The unique identifier of the vehicle
 County - The county where the vehicle is registered
@@ -27,6 +29,7 @@ DOL Vehicle ID - The vehicle identification number assigned by the Department of
 Vehicle Location - The location of the vehicle in longitude and latitude
 Electric Utility - The utility company that supplies electricity to the vehicle owner
 2020 Census Tract - The census tract where the vehicle is registered
+-->
 
 # Methodology
 
