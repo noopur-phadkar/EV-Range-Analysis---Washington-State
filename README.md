@@ -1,4 +1,4 @@
-# Use-of-Electric-Vehicles-in-Washington-State
+# EV Range Analysis - Washington State
 
 This study analyzes the adoption and usage of electric vehicles in Washington State and develops a predictive model to estimate the electric range of an electric vehicle based on its attributes. The findings suggest that battery capacity and vehicle type are among the most important factors influencing the electric range of an electric vehicle. The goal of this project is to create a predictive model that can accurately estimate the electric range of electric vehicles based on various attributes. By achieving this, we can tackle the issue of limited electric range, which could potentially increase the adoption of electric vehicles.
 
